@@ -1,0 +1,26 @@
+{
+  "name": "process-container",
+  "description": "nscale standard process container",
+  "keywords": [
+    "nearForm",
+    "nscale",
+    "deployer",
+    "process",
+    "container"
+  ],
+  "version": "0.0.8",
+  "license": "Artistic License 2.0",
+  "author": "Maciej Małecki (http://nearform.com/)",
+  "engines": {
+    "node": "*"
+  },
+  "main": "lib/container.js",
+  "dependencies": {
+    "bunyan": "~1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nearform/process-container.git"
+  },
+  "devDependencies": {}
+}
