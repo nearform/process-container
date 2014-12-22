@@ -17,7 +17,8 @@
   "main": "lib/container.js",
   "dependencies": {
     "bunyan": "~1.0.0",
-    "exit-error": "^1.0.0",
+    "chokidar": "^0.12.5",
+    "nscale-util": "^0.11.0",
     "spawn-command": "0.0.2"
   },
   "repository": {
