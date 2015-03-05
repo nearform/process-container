@@ -19,6 +19,7 @@
   },
   "main": "lib/container.js",
   "dependencies": {
+    "async": "^0.9.0",
     "bunyan": "~1.0.0",
     "chokidar": "^0.12.5",
     "nscale-util": "^0.11.0",
