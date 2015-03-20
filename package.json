@@ -8,11 +8,12 @@
     "process",
     "container"
   ],
-  "version": "0.3.2",
+  "version": "0.3.3",
   "license": "Artistic License 2.0",
-  "author": "Maciej Małecki <me@mmalecki.com> (http://nearform.com/)",
   "contributors": [
-    "Matteo Collina <matteo.collina@nearform.com>"
+    "Maciej Małecki <me@mmalecki.com> (http://nearform.com/)",
+    "Matteo Collina <matteo.collina@nearform.com>",
+    "Darragh Hayes <darragh.hayes@nearform.com"
   ],
   "engines": {
     "node": "*"
