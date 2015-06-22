@@ -8,7 +8,7 @@
     "process",
     "container"
   ],
-  "version": "0.4.8",
+  "version": "0.17.0",
   "license": "Artistic License 2.0",
   "contributors": [
     "Maciej Małecki <me@mmalecki.com> (http://nearform.com/)",
@@ -21,7 +21,7 @@
   "main": "lib/container.js",
   "dependencies": {
     "bunyan": "~1.0.0",
-    "nscale-process-handler": "^0.1.0",
+    "nscale-process-handler": "^0.17.0",
     "nscale-util": "^0.12.0"
   },
   "repository": {
